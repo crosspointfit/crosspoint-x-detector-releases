@@ -6,15 +6,15 @@
     <description>CrosspointX update feed</description>
     <language>en</language>
     <item>
-      <title>Version 0.7.3</title>
-      <pubDate>Tue, 05 May 2026 01:04:38 GMT</pubDate>
-      <sparkle:releaseNotesLink>https://crosspoint.fit/crosspoint-x-detector-releases/releases/0.7.3/</sparkle:releaseNotesLink>
+      <title>Version 0.7.4</title>
+      <pubDate>Tue, 05 May 2026 01:58:09 GMT</pubDate>
+      <sparkle:releaseNotesLink>https://crosspoint.fit/crosspoint-x-detector-releases/releases/0.7.4/</sparkle:releaseNotesLink>
       <enclosure
-          url="https://github.com/crosspointfit/crosspoint-x-detector-releases/releases/download/v0.7.3/CrosspointX-0.7.3-windows-cpu-setup.exe"
+          url="https://github.com/crosspointfit/crosspoint-x-detector-releases/releases/download/v0.7.4/CrosspointX-0.7.4-windows-cpu-setup.exe"
           sparkle:version="1"
-          sparkle:shortVersionString="0.7.3"
-          sparkle:edSignature="xkmqJuFxJXuJoaUFnp6Sf+l2oI5gw/5Ufw6UADujezKUoAmEHCRrN06nU3nYa8a7wQvjk5F0MNBNvNg6aRKYBg=="
-          length="98536987"
+          sparkle:shortVersionString="0.7.4"
+          sparkle:edSignature="KJG5bj8n3JR28ho71za9kyPpclfY7prP1umIZsNJOrlaBuFyLkaSIPXMGLUf6PJiUUzOp3K/5W+A+EHxlF1sCQ=="
+          length="98527972"
           type="application/vnd.microsoft.portable-executable" sparkle:os="windows-x64" sparkle:installerArguments="/SILENT /SP- /NOICONS" />
     </item>
   </channel>
