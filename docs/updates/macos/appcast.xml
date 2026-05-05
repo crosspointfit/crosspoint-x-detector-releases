@@ -6,16 +6,16 @@
     <description>CrosspointX update feed</description>
     <language>en</language>
     <item>
-      <title>Version 0.7.4</title>
-      <pubDate>Tue, 05 May 2026 01:58:09 GMT</pubDate>
+      <title>Version 0.7.5</title>
+      <pubDate>Tue, 05 May 2026 03:29:57 GMT</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://crosspoint.fit/crosspoint-x-detector-releases/releases/0.7.4/</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://crosspoint.fit/crosspoint-x-detector-releases/releases/0.7.5/</sparkle:releaseNotesLink>
       <enclosure
-          url="https://github.com/crosspointfit/crosspoint-x-detector-releases/releases/download/v0.7.4/CrosspointX-0.7.4.dmg"
-          sparkle:version="1"
-          sparkle:shortVersionString="0.7.4"
-          sparkle:edSignature="ezME6eon6wiUpplzYZoN0NFjtxOXS9ty7dYoaJ30UGsaaEuWlH42Kc+H7d87B7J4JJqIwQLcehfxGGN0qdqvAg=="
-          length="119209883"
+          url="https://github.com/crosspointfit/crosspoint-x-detector-releases/releases/download/v0.7.5/CrosspointX-0.7.5.dmg"
+          sparkle:version="3"
+          sparkle:shortVersionString="0.7.5"
+          sparkle:edSignature="LzxM1wqEMYQ/hlFXuNOO3h3PmEKgtbjP4vSfhEAIgPT6pIGL/SVQGkHiwyyfmnf0Emxgi5VQ74W0udB0wMYTDg=="
+          length="119215934"
           type="application/x-apple-diskimage" />
     </item>
   </channel>
