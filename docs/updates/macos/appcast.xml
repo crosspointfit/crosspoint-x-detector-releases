@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>CrosspointX Updates</title>
+    <description>CrosspointX update feed</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.7.3</title>
+      <pubDate>Tue, 05 May 2026 01:04:38 GMT</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://crosspoint.fit/crosspoint-x-detector-releases/releases/0.7.3/</sparkle:releaseNotesLink>
+      <enclosure
+          url="https://github.com/crosspointfit/crosspoint-x-detector-releases/releases/download/v0.7.3/CrosspointX-0.7.3.dmg"
+          sparkle:version="1"
+          sparkle:shortVersionString="0.7.3"
+          sparkle:edSignature="+fzQh3afwLEKOl4VRn/h556xJs4bjKuwCRkrgEpakJxULZVuhZ0LDiloe1H9kf/VKfl8Q9VEJDxWUaXpWrL3AQ=="
+          length="119213491"
+          type="application/x-apple-diskimage" />
+    </item>
+  </channel>
+</rss>
