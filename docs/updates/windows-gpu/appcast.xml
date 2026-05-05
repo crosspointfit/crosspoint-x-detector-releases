@@ -6,15 +6,15 @@
     <description>CrosspointX update feed</description>
     <language>en</language>
     <item>
-      <title>Version 0.7.6</title>
-      <pubDate>Tue, 05 May 2026 05:46:19 GMT</pubDate>
-      <sparkle:releaseNotesLink>https://crosspoint.fit/crosspoint-x-detector-releases/releases/0.7.6/</sparkle:releaseNotesLink>
+      <title>Version 0.7.7</title>
+      <pubDate>Tue, 05 May 2026 07:53:28 GMT</pubDate>
+      <sparkle:releaseNotesLink>https://crosspoint.fit/crosspoint-x-detector-releases/releases/0.7.7/</sparkle:releaseNotesLink>
       <enclosure
-          url="https://github.com/crosspointfit/crosspoint-x-detector-releases/releases/download/v0.7.6/CrosspointX-0.7.6-windows-gpu-setup.exe"
-          sparkle:version="4"
-          sparkle:shortVersionString="0.7.6"
-          sparkle:edSignature="2HWm8LqtsWwulWxWNH45YIb0rLNCt0+kVm7kLxROGXmImJKJ47cwxRqAanDZT6DFoBXbS+FnqaU6ltp4PTzBDQ=="
-          length="1359930757"
+          url="https://github.com/crosspointfit/crosspoint-x-detector-releases/releases/download/v0.7.7/CrosspointX-0.7.7-windows-gpu-setup.exe"
+          sparkle:version="5"
+          sparkle:shortVersionString="0.7.7"
+          sparkle:edSignature="G4KPmp4moagfvlgwReP2zOknQaEPiQwzNAdJXInnS2drY32tQTo8FjtUOq42C/RiyecwyRFG9123RykJUaKsDg=="
+          length="1359918975"
           type="application/vnd.microsoft.portable-executable" sparkle:os="windows-x64" sparkle:installerArguments="/SILENT /SP- /NOICONS" />
     </item>
   </channel>
