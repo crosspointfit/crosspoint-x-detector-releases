@@ -6,15 +6,15 @@
     <description>CrosspointX update feed</description>
     <language>en</language>
     <item>
-      <title>Version 0.8.1</title>
-      <pubDate>Wed, 06 May 2026 14:36:49 GMT</pubDate>
-      <sparkle:releaseNotesLink>https://crosspoint.fit/crosspoint-x-detector-releases/releases/0.8.1/</sparkle:releaseNotesLink>
+      <title>Version 0.8.2</title>
+      <pubDate>Wed, 06 May 2026 16:40:15 GMT</pubDate>
+      <sparkle:releaseNotesLink>https://crosspoint.fit/crosspoint-x-detector-releases/releases/0.8.2/</sparkle:releaseNotesLink>
       <enclosure
-          url="https://github.com/crosspointfit/crosspoint-x-detector-releases/releases/download/v0.8.1/CrosspointX-0.8.1-windows-gpu-setup.exe"
-          sparkle:version="8"
-          sparkle:shortVersionString="0.8.1"
-          sparkle:edSignature="ma+fClC4UXTK/G7FqI2AVEQFc/Yz2hq3lcL9Vxw7G8g3UKB95bY0uR5PyQHaXf/xgZMtNG9lJ4n/eHrK+U3xBQ=="
-          length="1359924915"
+          url="https://github.com/crosspointfit/crosspoint-x-detector-releases/releases/download/v0.8.2/CrosspointX-0.8.2-windows-gpu-setup.exe"
+          sparkle:version="9"
+          sparkle:shortVersionString="0.8.2"
+          sparkle:edSignature="k+BhxWRlmIvY8DBZPoTj4YsM2/LEJm/5vScHK/xgYFEuR6ldB2xEmGlp/MVfUftFbie8XdKeq+HNPHy48odwDg=="
+          length="1359934709"
           type="application/vnd.microsoft.portable-executable" sparkle:os="windows-x64" sparkle:installerArguments="/SILENT /SP- /NOICONS" />
     </item>
   </channel>
