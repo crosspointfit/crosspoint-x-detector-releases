@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>CrosspointX Updates</title>
+    <description>CrosspointX update feed</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.3.1</title>
+      <pubDate>Fri, 15 May 2026 15:13:47 GMT</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://crosspoint.fit/crosspoint-x-detector-releases/releases/cpx-gui/0.3.1/</sparkle:releaseNotesLink>
+      <enclosure
+          url="https://github.com/crosspointfit/crosspoint-x-detector-releases/releases/download/cpp-macos-v0.3.1/Cpx-0.3.1.dmg"
+          sparkle:version="4"
+          sparkle:shortVersionString="0.3.1"
+          sparkle:edSignature="f5USzogv1lWVu20SIRD7lo9Augz1TSKf3UW6JxSFOaOpcVx0Uo31NNBPk+oTFioGvmBVCMSMR67OiKxZSa9uDA=="
+          length="29349190"
+          type="application/x-apple-diskimage" />
+    </item>
+  </channel>
+</rss>
