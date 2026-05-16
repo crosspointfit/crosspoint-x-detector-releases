@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>CrosspointX Updates</title>
+    <description>CrosspointX update feed</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.3.6</title>
+      <pubDate>Sat, 16 May 2026 08:24:15 GMT</pubDate>
+      <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://crosspoint.fit/crosspoint-x-detector-releases/releases/cpx-gui/0.3.6/</sparkle:releaseNotesLink>
+      <enclosure
+          url="https://github.com/crosspointfit/crosspoint-x-detector-releases/releases/download/cpp-windows-v0.3.6/CrosspointX-Cpx-0.3.6-windows-gpu-setup.exe"
+          sparkle:version="9"
+          sparkle:shortVersionString="0.3.6"
+          sparkle:edSignature="5UXzRSudQnWtaZsE+kW/0U11ZCBNWJzW2wv/yeGbgnq5KgR+t85P2HNnieXjjrvnK68cHJFHX4eHri4FbbmZBw=="
+          length="1288760978"
+          type="application/vnd.microsoft.portable-executable" sparkle:os="windows-x64" sparkle:installerArguments="/SILENT /SP- /NOICONS" />
+    </item>
+  </channel>
+</rss>
