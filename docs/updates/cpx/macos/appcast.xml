@@ -6,16 +6,16 @@
     <description>CrosspointX update feed</description>
     <language>en</language>
     <item>
-      <title>Version 0.4.4</title>
-      <pubDate>Sun, 17 May 2026 08:29:21 GMT</pubDate>
+      <title>Version 0.4.5</title>
+      <pubDate>Sun, 17 May 2026 10:52:49 GMT</pubDate>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://crosspoint.fit/crosspoint-x-detector-releases/releases/cpx-gui/0.4.4/</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://crosspoint.fit/crosspoint-x-detector-releases/releases/cpx-gui/0.4.5/</sparkle:releaseNotesLink>
       <enclosure
-          url="https://github.com/crosspointfit/crosspoint-x-detector-releases/releases/download/cpp-macos-v0.4.4/CrosspointX-Cpx-0.4.4.dmg"
-          sparkle:version="14"
-          sparkle:shortVersionString="0.4.4"
-          sparkle:edSignature="BrS8/Kw18ZnwWAf9brZ39qfLkyhWYiyd/JYZNX06tc4cLHNhdaZGJfNvrLqIfbiTv0vXPqM+cgp7JMRe497TDg=="
-          length="29367983"
+          url="https://github.com/crosspointfit/crosspoint-x-detector-releases/releases/download/cpp-macos-v0.4.5/CrosspointX-Cpx-0.4.5.dmg"
+          sparkle:version="15"
+          sparkle:shortVersionString="0.4.5"
+          sparkle:edSignature="fxQ9kOhwtQDD/LxfkBNcZV6sVmomB42rUK0ER9V81wlWIB6KDVynfXUZN8ebTBqMQcZz3J6pEHyZ3HIDGqalCA=="
+          length="29368133"
           type="application/x-apple-diskimage" />
     </item>
   </channel>
