@@ -6,16 +6,16 @@
     <description>CrosspointX update feed</description>
     <language>en</language>
     <item>
-      <title>Version 0.5.3</title>
-      <pubDate>Wed, 27 May 2026 11:40:30 GMT</pubDate>
+      <title>Version 0.5.4</title>
+      <pubDate>Thu, 28 May 2026 15:49:30 GMT</pubDate>
       <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://crosspoint.fit/crosspoint-x-detector-releases/releases/cpx-gui/0.5.3/</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://crosspoint.fit/crosspoint-x-detector-releases/releases/cpx-gui/0.5.4/</sparkle:releaseNotesLink>
       <enclosure
-          url="https://github.com/crosspointfit/crosspoint-x-detector-releases/releases/download/cpp-windows-v0.5.3/CrosspointX-Cpx-0.5.3-windows-gpu-setup.exe"
-          sparkle:version="22"
-          sparkle:shortVersionString="0.5.3"
-          sparkle:edSignature="neOl85Im7GOkhbHk3QEtmPeQ8staBl/ko66Uq5nGZXZTx4t3IIuedxvt2zYUT1B0ntqBGLLtR3Wpo2mv6GJLCg=="
-          length="1277271237"
+          url="https://github.com/crosspointfit/crosspoint-x-detector-releases/releases/download/cpp-windows-v0.5.4/CrosspointX-Cpx-0.5.4-windows-gpu-setup.exe"
+          sparkle:version="23"
+          sparkle:shortVersionString="0.5.4"
+          sparkle:edSignature="bNmOW/R1ejkQ0oLQT3QqaI9ivEg9SeO38juQN9Tn54JBYAqjce9NfPsqKvb0P/8IGWkwSnbTxSz+QjuKP2ClDw=="
+          length="1277156957"
           type="application/vnd.microsoft.portable-executable" sparkle:os="windows-x64" sparkle:installerArguments="/SILENT /SP- /NOICONS" />
     </item>
   </channel>
