@@ -7,15 +7,15 @@
     <language>en</language>
     <item>
       <title>Version 0.5.5</title>
-      <pubDate>Fri, 29 May 2026 06:34:51 GMT</pubDate>
+      <pubDate>Fri, 29 May 2026 05:57:49 GMT</pubDate>
       <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
       <sparkle:releaseNotesLink>https://crosspoint.fit/crosspoint-x-detector-releases/releases/cpx-gui/0.5.5/</sparkle:releaseNotesLink>
       <enclosure
-          url="https://github.com/crosspointfit/crosspoint-x-detector-releases/releases/download/cpp-windows-v0.5.5/CrosspointX-Cpx-0.5.5-windows-gpu-setup.exe"
+          url="https://github.com/crosspointfit/crosspoint-x-detector-releases/releases/download/cpp-windows-v0.5.5/CrosspointX-Cpx-0.5.5-windows-cpu-setup.exe"
           sparkle:version="24"
           sparkle:shortVersionString="0.5.5"
-          sparkle:edSignature="iSmgNZAwZ9bRcJbA2nF0XydjVYBippVVGbZ8ji+YKgtISnV+G4PwtaQuQutLwYuras3t1MlYRj+qHvb23dzBBg=="
-          length="1277155966"
+          sparkle:edSignature="WzV+UiiUgBNcoNxII6ykTm6GcIJOdYk7Strjh/4coj7W/v5KsTxXDhDieYa6rCyDWLq+xYOgYFuduMFMuJ46Dg=="
+          length="32742655"
           type="application/vnd.microsoft.portable-executable" sparkle:os="windows-x64" sparkle:installerArguments="/SILENT /SP- /NOICONS" />
     </item>
   </channel>
